@@ -1,4 +1,4 @@
-# NoProk
+# NoProc
 
 
 Project are created during hackathon in LPNU 4-5 May 2019.
