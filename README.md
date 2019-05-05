@@ -9,5 +9,8 @@ They can take these tasks (wash the dishes, make a bed, etc.) and after carrying
 promotional items in their parents (ice cream for example).
 
 
+![]()
+
+
 When a child adds a task in application, parents get a message from the Telegram bot, in which child name, task, deadline and points are 
 given. When the child drags the task to Done, the parents also receive a notification.
