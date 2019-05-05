@@ -9,11 +9,11 @@ They can take these tasks (wash the dishes, make a bed, etc.) and after carrying
 promotional items in their parents (ice cream for example).
 
 
-![](https://github.com/MeriDK/NoProc/blob/pic/hackaton%20(3)-7.png)
+![](https://github.com/MeriDK/NoProc/blob/master/pic/hackaton%20(3)-7.png)
 
 
 When a child adds a task in application, parents get a message from the Telegram bot, in which child name, task, deadline and points are 
 given. When the child drags the task to Done, the parents also receive a notification.
 
 
-![](https://github.com/MeriDK/NoProc/blob/pic/hackaton%20(3)-8.png)
+![](https://github.com/MeriDK/NoProc/blob/master/pic/hackaton%20(3)-8.png)
