@@ -1,7 +1,7 @@
 # NoProc
 
 
-Project are created during hackathon in LPNU 4-5 May 2019.
+Project was created during HACKATHON in LPNU 4-5 May 2019.
 
 
 It is an application, which gamify routine tasks for children. 
